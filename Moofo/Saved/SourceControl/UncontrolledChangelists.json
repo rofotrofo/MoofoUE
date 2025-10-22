@@ -6,6 +6,13 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Users/ivan_/Documents/Unreal/MoofoUE/Moofo/Content/Blueprints/Player/CameraPlayer_BP.uasset",
+				"C:/Users/ivan_/Documents/Unreal/MoofoUE/Moofo/Content/Blueprints/Maps/Endless_Map.umap",
+				"C:/Users/ivan_/Documents/Unreal/MoofoUE/Moofo/Content/Blueprints/UI/PlayerUI_W.uasset",
+				"C:/Users/ivan_/Documents/Unreal/MoofoUE/Moofo/Content/Blueprints/GameMode/Endless_GM.uasset",
+				"C:/Users/ivan_/Documents/Unreal/MoofoUE/Moofo/Content/Blueprints/CharacterController/PlayerController_BP.uasset",
+				"C:/Users/ivan_/Documents/Unreal/MoofoUE/Moofo/Content/Blueprints/Enemies/BasicEnemy_BP.uasset",
+				"C:/Users/ivan_/Documents/Unreal/MoofoUE/Moofo/Content/Blueprints/Enemies/FlightArea_BP.uasset",
+				"C:/Users/ivan_/Documents/Unreal/MoofoUE/Moofo/Content/Blueprints/Enemies/BonusEnemy_BP.uasset",
 				"C:/Users/ivan_/Documents/Unreal/MoofoUE/Moofo/Content/Blueprints/Maps/MainMap_HLOD0_Instancing.uasset",
 				"C:/Users/ivan_/Documents/Unreal/MoofoUE/Moofo/Content/__ExternalActors__/Blueprints/Maps/MainMap/1/CI/FHIYXI4ZHVQONIFK58D9H0.uasset",
 				"C:/Users/ivan_/Documents/Unreal/MoofoUE/Moofo/Content/__ExternalObjects__/Blueprints/Maps/MainMap/8/7K/UBSCZ616P377TNNRP7UOKZ.uasset",
@@ -86,11 +93,7 @@
 				"C:/Users/ivan_/Documents/Unreal/MoofoUE/Moofo/Content/__ExternalActors__/Blueprints/Maps/MainMap/B/BD/BOO9FMDRC8080DQE14RGKE.uasset",
 				"C:/Users/ivan_/Documents/Unreal/MoofoUE/Moofo/Content/__ExternalActors__/Blueprints/Maps/MainMap/3/6N/MAZE2KHQEWUXV5EK75PST5.uasset",
 				"C:/Users/ivan_/Documents/Unreal/MoofoUE/Moofo/Content/__ExternalActors__/Blueprints/Maps/MainMap/E/S5/719FXSSRZD0AD3ZG2Q2HKR.uasset",
-				"C:/Users/ivan_/Documents/Unreal/MoofoUE/Moofo/Content/Blueprints/Maps/MainMap.umap",
-				"C:/Users/ivan_/Documents/Unreal/MoofoUE/Moofo/Content/Blueprints/Maps/Endless_Map.umap",
-				"C:/Users/ivan_/Documents/Unreal/MoofoUE/Moofo/Content/Blueprints/UI/PlayerUI_W.uasset",
-				"C:/Users/ivan_/Documents/Unreal/MoofoUE/Moofo/Content/Blueprints/GameMode/Endless_GM.uasset",
-				"C:/Users/ivan_/Documents/Unreal/MoofoUE/Moofo/Content/Blueprints/CharacterController/PlayerController_BP.uasset"
+				"C:/Users/ivan_/Documents/Unreal/MoofoUE/Moofo/Content/Blueprints/Maps/MainMap.umap"
 			]
 		}
 	]
