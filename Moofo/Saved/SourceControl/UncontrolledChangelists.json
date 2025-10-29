@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/PCGM/MoofoUE/Moofo/Content/Blueprints/GameMode/Endless_GM.uasset",
+				"C:/Users/PCGM/MoofoUE/Moofo/Content/Blueprints/UI/PlayerUI_W.uasset",
+				"C:/Users/PCGM/MoofoUE/Moofo/Content/Blueprints/Enemies/AbductingEnemy/Cow_BP.uasset",
+				"C:/Users/PCGM/MoofoUE/Moofo/Content/Blueprints/Enemies/AbductingEnemy/Spaceship_BP.uasset",
+				"C:/Users/PCGM/MoofoUE/Moofo/Content/Blueprints/CharacterController/PlayerController_BP.uasset",
 				"C:/Users/ivan_/Documents/Unreal/MoofoUE/Moofo/Content/Blueprints/Player/CameraPlayer_BP.uasset",
 				"C:/Users/ivan_/Documents/Unreal/MoofoUE/Moofo/Content/Blueprints/Maps/Endless_Map.umap",
 				"C:/Users/ivan_/Documents/Unreal/MoofoUE/Moofo/Content/Blueprints/UI/PlayerUI_W.uasset",
